@@ -1,2 +1,2 @@
 # Make-with-Code
-APCS Final Project Template
+Read these [Instructions](Instructions.md)
