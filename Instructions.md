@@ -2,8 +2,8 @@
 
 # 🗓️ Timeline
 
-* Start Date: May 27, 2025  
-* Due Date: Jun 5, 2025
+* Start Date: May 26, 2026  
+* Due Date: Jun 4, 2026
 
 ---
 
